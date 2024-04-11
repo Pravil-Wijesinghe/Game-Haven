@@ -1,0 +1,93 @@
+/* Styles for tablet screens */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .navbar {
+    text-align: center;
+  }
+  
+  .navbar img {
+    width: 200px;
+  }
+  
+  .slider {
+    height: 15rem;
+  }
+  
+  .text-overlay {
+    padding: 30px;
+    padding-top: 80px;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .welcome {
+    font-size: 40px;
+  }
+  
+  .welcome-content {
+    font-size: 16px;
+  }
+  
+  .slide-header {
+    font-size: 16px;
+  }
+  
+  .slide-para {
+    font-size: 14px;
+  }
+  
+  .hyperlinks {
+    height: 300px;
+  }
+  
+  .icons {
+    padding-top: 50px;
+  }
+  
+  .click-icon {
+    padding-top: 15px;
+    font-size: 18px;
+  }
+  
+  .link a {
+    font-size: 18px;
+  }
+  
+  .pg2-header {
+    padding: 20px;
+    padding-top: 60px;
+    height: 240px;
+  }
+  
+  .pg2-content1 {
+    font-size: 16px;
+  }
+  
+  .pg2-content2 {
+    flex-direction: row;
+    height: 400px;
+  }
+  
+  .pg2-content2-2 {
+    padding: 20px;
+    font-size: 16px;
+    text-align: justify;
+  }
+  
+  .pg2-img1,
+  .pg2-img2 {
+    padding: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .pg2-content3 {
+    flex-direction: row;
+    height: 400px;
+  }
+  
+  .pg2-content3-1 {
+    padding: 20px;
+    font-size: 16px;
+    text-align: justify;
+  }
+}

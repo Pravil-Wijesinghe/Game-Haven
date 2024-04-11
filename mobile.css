@@ -1,0 +1,94 @@
+/* Styles for mobile screens */
+@media only screen and (max-width: 767px) {
+  .navbar {
+    text-align: center;
+  }
+  
+  .navbar img {
+    width: 150px;
+  }
+  
+  .text-overlay {
+    padding: 20px;
+    padding-top: 40px;
+    font-size: 16px;
+    text-align: center;
+  }
+  
+  .welcome {
+    font-size: 30px;
+  }
+  
+  .welcome-content {
+    font-size: 14px;
+  }
+  
+  .slide-header {
+    font-size: 14px;
+  }
+  
+  .slide-para {
+    font-size: 12px;
+  }
+  
+  .slider {
+    height: 12rem;
+  }
+  
+  .hyperlinks {
+    height: 200px;
+  }
+  
+  .icons {
+    padding-top: 30px;
+  }
+  
+  .click-icon {
+    padding-top: 10px;
+    font-size: 14px;
+  }
+  
+  .link a {
+    font-size: 14px;
+  }
+  
+  .pg2-header {
+    padding: 10px;
+    padding-top: 40px;
+    height: auto;
+    font-size: 20px;
+  }
+  
+  .pg2-content1 {
+    font-size: 14px;
+  }
+  
+  .pg2-content2 {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .pg2-content2-2 {
+    padding: 10px;
+    font-size: 14px;
+    text-align: justify;
+  }
+  
+  .pg2-img1,
+  .pg2-img2 {
+    padding: 10px;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .pg2-content3 {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .pg2-content3-1 {
+    padding: 10px;
+    font-size: 14px;
+    text-align: justify;
+  }
+}
